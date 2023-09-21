@@ -27,4 +27,4 @@
 #  ✨ D'où vient ce projet?
 ### Il s'agit d'un exercice pour s'entrainer à manipuler Readme, markdown et github
 ## **Merci d'avoir lu !**
-![](https://tenor.com/bZnPR.gif)
+![Alt Text](https://tenor.com/bZnPR.gif)

@@ -21,7 +21,7 @@
 ### Il est terminé.
 #  ✨ Que contient le projet?
 ### Une photo de notre promo
-[](IMG_0145.jpg)
+![](https://github.com/julie1030/READMEPLEASE.md/blob/85fc2b03599b713aaf77a07bdf9a568f40622fe3/IMG_0145.jpg)
 #  ✨ Comment on l'installe?
 ### Vous n'aurez pas vraiment besoin de l'installer.
 #  ✨ D'où vient ce projet?

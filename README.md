@@ -11,7 +11,7 @@
 #  ✨ Quel est le projet?
 ### On en a pas, on fait semblant !
 #  ✨ Quand avons-nous bossé dessus?
-### La première semaine de la formation, en septembre 2023.
+### le 21 septembre de l'an 2023 :)
 #  ✨ Quel était le cadre dans lequel s'est déroullé le projet?
 ### C'était dans le cadre de notre `formation de junior dev` chez `BeCode`.
 ### Voici le lien du centre de formation: [BeCode](https://becode.org/campuses/becode-brussels/)

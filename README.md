@@ -13,6 +13,7 @@
 ### La première semaine de la formation, en septembre 2023.
 #  ✨ Quel était le cadre dans lequel s'est déroullé le projet?
 ### C'était dans le cadre de notre `formation de junior dev` chez `BeCode`.
+### Voici le lien du centre de formation: [BeCode](https://becode.org/campuses/becode-brussels/)
 #  ✨ À quoi ressemble ce projet?
 ### Honnetement à aucun autre...
 #  ✨ Où en est le projet?

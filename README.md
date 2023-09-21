@@ -32,5 +32,8 @@
 
 ### Parfois, certaines branches d'arbres se cassent et nous tombent sur la tête et la transforme en petite tête cacahuète... snifff !
 #### Nouveau commit : j'ai corrigé ma grosse faute d'orthographe ! :)
-### Bravo Zala tu gère !
+### Bravo Zala tu gères !
+<img src="https://img.freepik.com/vecteurs-libre/illustration-lettrage-bravo-dessine-main_23-2149491528.jpg?size=626&ext=jpg" >
+
+
 

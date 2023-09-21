@@ -27,4 +27,4 @@
 #  ✨ D'où vient ce projet?
 ### Il s'agit d'un exercice pour s'entrainer à manipuler Readme, markdown et github
 ## **Merci d'avoir lu !**
-![Alt Text](https://media.giphy.com/media/3ohjUTvwPpXtvCt1f2/giphy-downsized-large.gif)
+![image de fin](https://media.giphy.com/media/3ohjUTvwPpXtvCt1f2/giphy.gif)

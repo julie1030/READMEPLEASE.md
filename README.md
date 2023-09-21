@@ -19,6 +19,8 @@
 ### Il est terminé.
 #  ✨ Que contient le projet?
 ### Une photo de notre promo?
+https://github.com/julie1030/READMEPLEASE.md/blob/main/IMG_0145.jpg?raw=true
+
 ### Un gif d'un de nos coach beCode?
 #  ✨ Comment on l'installe?
 ### Vous n'aurait pas vraiment besoin de l'installer.

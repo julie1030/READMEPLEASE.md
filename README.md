@@ -7,6 +7,7 @@
 * Zineb
 * Zala
 * Jessy
+* Cédric
 #  ✨ Quel est le projet?
 ### On en a pas, on fait semblant !
 #  ✨ Quand avons-nous bossé dessus?
